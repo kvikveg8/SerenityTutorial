@@ -1,0 +1,9 @@
+studentsinfo\FirstSerenityTest.class
+studentsinfo\TagsTest.class
+testbase\TestBase.class
+serenity\StudentSerenitySteps.class
+studentsidinfo\SerenityIdInfo.class
+utils\TestUtils.class
+studentsinfo\StudentCrudTest.class
+utils\ReusableSpecifications.class
+studentsinfo\CreateStudentsDataDrivenTest.class
